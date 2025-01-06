@@ -3,9 +3,19 @@
 
  
 
-## About me
+## : About me
 
 - 😄 Neuroscientist & Statistician 
 - 🧑‍🔬 I am passionate about using advanced statistics to answer real-life research questions.
-- 💻 I am using R, Python, SQL and PowerBI.
+- 🍪 Making tutorials about statistics.
 - 📫 You can reach me via alisawang2017@gmail.com.
+
+  ## 🌐 Socials:
+
+  ## 💻 Tech Stack:
+  
+
+  
+  
+
+
