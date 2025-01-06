@@ -1,8 +1,11 @@
 <!-- bio and stats -->
- ### Hi, I'm Yufang!
+ ### 👋 Hi, I'm Yufang!
 
  
 
 ## About me
 
-I am current the final-year PhD candidate in Cognitive Science. My research topic is language production.
+- 😄 Neuroscientist & Statistician 
+- 🧑‍🔬 I am passionate about using advanced statistics to answer real-life research questions.
+- 💻 I am using R, Python, SQL and PowerBI.
+- 📫 You can reach me via alisawang2017@gmail.com.
