@@ -10,7 +10,8 @@
 - 🎨 Making tutorials about statistics.
 - 📫 You can reach me via alisawang2017@gmail.com.
 
-
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+![](https://github-readme-stats.vercel.app/api?username=Yufanggg&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
   
 
 # 💻 Tech Stack
@@ -27,6 +28,9 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+# Featured Tutorials
+[![scpre-based causal structual learning](https://ytcards.demolab.com/?id=Wjj21p3tvcg&title=5+things+I+wish+I+knew+before+studying+Computer+Science&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "5 things I wish I knew before studying Computer Science")](https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ)
 
   
   
