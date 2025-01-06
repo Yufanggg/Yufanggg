@@ -30,7 +30,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 # Featured Tutorials
-[![scpre-based causal structual learning](https://ytcards.demolab.com/?id=Wjj21p3tvcg&title=5+things+I+wish+I+knew+before+studying+Computer+Science&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "5 things I wish I knew before studying Computer Science")](https://github.com/Yufanggg/score_basedcausal_structural_learning/blob/main/CausalInference2_score_based_causal_structural_learning_new.pdf)
+[![scpre-based causal structual learning]()](https://github.com/Yufanggg/score_basedcausal_structural_learning/blob/main/CausalInference2_score_based_causal_structural_learning_new.pdf)
 
   
   
