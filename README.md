@@ -11,7 +11,7 @@
 - 📫 You can reach me via wangalisa2017@gmail.com.
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=Yufanggg&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![Yufang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yufanggg&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
   
 
 # 💻 Tech Stack
