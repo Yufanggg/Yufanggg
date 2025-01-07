@@ -6,7 +6,7 @@
 ## : About me
 
 - 😄 Neuroscientist & Statistician 
-- 🧑‍🔬 I am passionate about using advanced statistics to answer real-life research questions.
+- 🧑‍🔬 I am passionate about using advanced statistics to answer real-world research questions.
 - 🎨 Making tutorials about statistics.
 - 📫 You can reach me via wangalisa2017@gmail.com.
 
