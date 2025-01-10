@@ -33,7 +33,16 @@
 
 
 # Featured Tutorials
-[![score-based causal structual learning]()](https://github.com/Yufanggg/score_basedcausal_structural_learning/blob/main/CausalInference2_score_based_causal_structural_learning_new.pdf)
+[![score-based causal structual learning](./covid_tracking.jpgs)]([https://github.com/Yufanggg/USCovid_tracking_analysis])
+
+# Featured Projects
+1. [![How I organise my life with Notion](https://github.com/Yufanggg/Yufanggg/blob/main/covid_tracking.jpg)]([https://github.com/Yufanggg/USCovid_tracking_analysis])
+2. <a href="https://github.com/Yufanggg/USCovid_tracking_analysis">
+   <img src="https://github.com/Yufanggg/Yufanggg/blob/main/covid_tracking.jpg" alt="US covid tracking" width="300" height="200">
+   </a>
+
+
+
 
   
   
