@@ -40,8 +40,8 @@
 <img src="https://github.com/Yufanggg/Yufanggg/blob/main/covid_tracking.jpg" alt="US covid tracking" width="300" height="200">
 </a>
 
-<a href="https://github.com/Yufanggg/USCovid_tracking_analysis">
-<img src="https://github.com/Yufanggg/Yufanggg/blob/main/covid_tracking.jpg" alt="US covid tracking" width="300" height="200">
+<a href="https://github.com/Yufanggg/Cognition2Computation">
+<img src="https://github.com/Yufanggg/Cognition2Computation/blob/main/Images/PowerCurve.jpg" alt="Cognition2Computation" width="300" height="200">
 </a>
 
 
