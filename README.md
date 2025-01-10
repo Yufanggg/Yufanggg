@@ -3,7 +3,7 @@
 
  
 
-## : About me
+## About me
 
 - 😄 Neuroscientist & Statistician 
 - 🧑‍🔬 I am passionate about using advanced statistics to answer real-world research questions.
