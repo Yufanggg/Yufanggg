@@ -45,7 +45,7 @@
 <a href="https://github.com/Yufanggg/Cognition2Computation">
 <img src="https://github.com/Yufanggg/Cognition2Computation/blob/main/Images/PowerCurve.jpg" alt="Power Curve Analysis" width="300" height="200", title="Power Curve Analysis">
 </a>
-<p style="text-align: center;">From cognition to computation</p> <!--end of Porject 1-->
+
 
 
 
