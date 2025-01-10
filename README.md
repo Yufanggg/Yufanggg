@@ -36,14 +36,15 @@
 [Score-based causal structual learning: GIES](https://github.com/Yufanggg/score_basedcausal_structural_learning/blob/main/CausalInference2_score_based_causal_structural_learning_new.pdf)
 
 # Featured Projects
-<a href="https://github.com/Yufanggg/USCovid_tracking_analysis">
-<img src="https://github.com/Yufanggg/Yufanggg/blob/main/covid_tracking.jpg" alt="US covid tracking" width="300" height="200">
-</a>
-
 <a href="https://github.com/Yufanggg/Cognition2Computation">
-<img src="https://github.com/Yufanggg/Cognition2Computation/blob/main/Images/PowerCurve.jpg" alt="Cognition2Computation" width="300" height="200">
+<img src="https://github.com/Yufanggg/Cognition2Computation/blob/main/Images/PowerCurve.jpg" alt="Power Curve Analysis" width="300" height="200", title="Power Curve Analysis">
 </a>
-
+<p style="text-align: enter;">From cognition to computation</p> <!--end of Porject 1-->
+<a href="https://github.com/Yufanggg/USCovid_tracking_analysis">
+ <img src="https://github.com/Yufanggg/Yufanggg/blob/main/covid_tracking.jpg" 
+ alt="US covid tracking" width="300" height="200" alt="Power Curve Analysis" width="300" height="200", title="PowerBI Dashboard of the project">
+</a>
+<p style="text-align: enter;">From cognition to computation</p> <!--end of Porject 2-->
 
 
 
