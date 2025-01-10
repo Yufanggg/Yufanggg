@@ -34,7 +34,7 @@
 
 # Featured Tutorials
 [![Score-based causal structual learning: GIES]([https://github.com/Yufanggg/score_basedcausal_structural_learning/blob/main/CausalInference2_score_based_causal_structural_learning_new.pdf])
-[Score-based causal structual learning: GIES]([https://github.com/Yufanggg/score_basedcausal_structural_learning/blob/main/CausalInference2_score_based_causal_structural_learning_new.pdf])
+[Score-based causal structual learning: GIES](https://github.com/Yufanggg/score_basedcausal_structural_learning/blob/main/CausalInference2_score_based_causal_structural_learning_new.pdf)
 
 # Featured Projects
 <a href="https://github.com/Yufanggg/USCovid_tracking_analysis">
