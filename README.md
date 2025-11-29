@@ -47,7 +47,7 @@
 </a>
 
 <a href="https://github.com/Yufanggg/BayesianSurivivalShrinkage">
-<img src="https://github.com/Yufanggg/BayesianSurivivalShrinkage/tree/main/Image/sim_50_intshrinkagePH.png" alt="Example Figure" width="300" height="200", title="Example Figure">
+<img src="[https://github.com/Yufanggg/BayesianSurivivalShrinkage/tree/main/Image/sim_50_intshrinkagePH.png](https://github.com/Yufanggg/BayesianSurivivalShrinkage/blob/main/Image/sim_50_intshrinkagePH.png)" alt="Example Figure" width="300" height="200", title="Example Figure">
 </a>
 
 
@@ -56,6 +56,7 @@
 
   
   
+
 
 
 
