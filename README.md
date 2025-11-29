@@ -46,11 +46,16 @@
 <img src="https://github.com/Yufanggg/Cognition2Computation/blob/main/Images/PowerCurve.jpg" alt="Power Curve Analysis" width="300" height="200", title="Power Curve Analysis">
 </a>
 
+<a href="https://github.com/Yufanggg/BayesianSurivivalShrinkage">
+<img src="https://github.com/Yufanggg/BayesianSurivivalShrinkage/tree/main/Image/sim_50_intshrinkagePH.png" alt="Example Figure" width="300" height="200", title="Example Figure">
+</a>
+
 
 
 
 
   
   
+
 
 
