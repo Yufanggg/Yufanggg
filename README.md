@@ -42,13 +42,15 @@
  alt="US covid tracking" width="300" height="200" alt="US covid tracking Dashboard" width="300" height="200", title="PowerBI Dashboard of the project">
 </a>
 
-<a href="https://github.com/Yufanggg/Cognition2Computation">
-<img src="https://github.com/Yufanggg/Cognition2Computation/blob/main/Images/PowerCurve.jpg" alt="Power Curve Analysis" width="300" height="200", title="Power Curve Analysis">
-</a>
 
 <a href="https://github.com/Yufanggg/BayesianSurivivalShrinkage">
 <img src="https://github.com/Yufanggg/BayesianSurivivalShrinkage/blob/main/Image/sim_50_intshrinkagePH.png" alt="Example Figure" width="300" height="200", title="Example Figure">
 </a>
+
+<a href="https://github.com/Yufanggg/TFCE_Tutorial_DOE">
+<img src="https://github.com/Yufanggg/TFCE_Tutorial_DOE/blob/main/Figures/DOE08_simulated_topography.jpg" alt="Example Figure" width="300" height="200", title="Example Figure">
+</a>
+
 
 
 
